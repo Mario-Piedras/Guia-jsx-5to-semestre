@@ -1,0 +1,10 @@
+body,html{
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+
+.blanco{
+    color: white;
+    background-color: rgb(13, 126, 146);
+}
